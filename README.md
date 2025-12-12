@@ -15,7 +15,7 @@ Get a pre-configured code review workflow with a unique `graph_id`.
 
 **Endpoint:** `GET http://localhost:8000/graph/example`
 
-![Postman GET Example](.postman-get-example.png)
+![Postman GET Example](./postman-get-example.png)
 
 **What you get:**
 - `graph_id`: Use this to run the workflow
@@ -701,3 +701,4 @@ For questions about this implementation, please refer to the assignment submissi
 ---
 
 **Built with ❤️ for AI Engineering Internship Assignment**
+
